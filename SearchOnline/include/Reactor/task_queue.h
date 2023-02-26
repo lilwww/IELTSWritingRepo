@@ -1,9 +1,4 @@
-/*  File Name      task_queue.h
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 20:10
- *  Last Modified  2022-07-29 23:30
- */
+
 #ifndef __SE_TASK_QUEUE_H__
 #define __SE_TASK_QUEUE_H__
 

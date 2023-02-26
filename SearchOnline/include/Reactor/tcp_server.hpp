@@ -1,9 +1,4 @@
-/*  File Name      tcp_server.hpp
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 21:57
- *  Last Modified  2022-08-01 20:52
- */
+
 #ifndef __SE_TCP_SERVER_H__
 #define __SE_TCP_SERVER_H__
 

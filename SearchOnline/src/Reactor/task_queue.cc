@@ -1,9 +1,4 @@
-/*  File Name      task_queue.cc
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 20:16
- *  Last Modified  2022-07-31 21:24
- */
+
 #include "../../include/Reactor/task_queue.h"
 
 namespace search_engine {

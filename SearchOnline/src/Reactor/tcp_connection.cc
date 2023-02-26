@@ -1,9 +1,4 @@
-/*  File Name      tcp_connection.cc
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 21:40
- *  Last Modified  2022-08-04 21:01
- */
+
 #include "../../include/Reactor/tcp_connection.h"
 
 #include <sstream>

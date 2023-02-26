@@ -1,9 +1,4 @@
-/*  File Name      event_loop.cc
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 09:22
- *  Last Modified  2022-08-03 12:22
- */
+
 #include "../../include/Reactor/event_loop.h"
 
 #include <unistd.h>

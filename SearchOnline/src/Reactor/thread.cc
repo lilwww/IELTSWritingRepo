@@ -1,9 +1,4 @@
-/*  File Name      thread.cc
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 22:01
- *  Last Modified  2022-08-03 11:21
- */
+
 #include "../../include/Reactor/thread.h"
 
 namespace search_engine {

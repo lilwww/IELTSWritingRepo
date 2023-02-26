@@ -1,9 +1,4 @@
-/*  File Name      inet_address.cc
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 11:16
- *  Last Modified  2022-07-31 21:23
- */
+
 #include "../../include/Reactor/inet_address.h"
 
 #include <string.h>

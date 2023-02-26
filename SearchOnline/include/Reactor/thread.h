@@ -1,9 +1,4 @@
-/*  File Name      thread.h
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 22:09
- *  Last Modified  2022-08-04 11:25
- */
+
 #ifndef __SE_THREAD_H__
 #define __SE_THREAD_H__
 

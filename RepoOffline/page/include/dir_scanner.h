@@ -1,9 +1,3 @@
-/*  File Name      dir_scanner.h
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 22:45
- *  Last Modified  2022-07-30 17:24
- */
 #ifndef __SE_DIRSCANNER_H__
 #define __SE_DIRSCANNER_H__
 

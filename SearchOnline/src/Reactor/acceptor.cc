@@ -1,9 +1,4 @@
-/*  File Name      acceptor.cc
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-28 19:59
- *  Last Modified  2022-07-31 21:22
- */
+
 #include "../../include/Reactor/acceptor.h"
 
 #define MAX_LISTEN_LIST 16
