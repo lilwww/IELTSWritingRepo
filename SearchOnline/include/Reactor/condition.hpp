@@ -1,9 +1,4 @@
-/*  File Name      condition.hpp
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-28 22:58
- *  Last Modified  2022-07-31 23:38
- */
+
 #ifndef __SE_CONDITION__
 #define __SE_CONDITION__
 

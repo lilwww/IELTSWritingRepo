@@ -1,9 +1,4 @@
-/*  File Name      thread_pool.h
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 22:18
- *  Last Modified  2022-08-02 22:05
- */
+
 #ifndef __SE_THREAD_POOL_H__
 #define __SE_THREAD_POOL_H__
 

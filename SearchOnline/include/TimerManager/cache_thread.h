@@ -1,9 +1,4 @@
-/*  File Name      cache_thread.h
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-08-04 03:38
- *  Last Modified  2022-08-04 22:52
- */
+
 #ifndef __SE_CACHE_THREAD_H__
 #define __SE_CACHE_THREAD_H__
 #include <pthread.h>

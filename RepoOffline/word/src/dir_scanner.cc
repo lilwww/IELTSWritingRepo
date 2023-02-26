@@ -1,9 +1,4 @@
-/*  File Name      dir_scanner.cc
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 22:47
- *  Last Modified  2022-07-31 15:08
- */
+
 #include "../include/dir_scanner.h"
 
 #include <string.h>

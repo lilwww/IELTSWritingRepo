@@ -1,9 +1,4 @@
-/*  File Name      acceptor.h
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-28 19:54
- *  Last Modified  2022-07-29 20:48
- */
+
 #ifndef __SE_ACCEPTOR_H__
 #define __SE_ACCEPTOR_H__
 

@@ -1,9 +1,4 @@
-/*  File Name      timer_fd.h
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-08-03 16:15
- *  Last Modified  2022-08-03 16:21
- */
+
 #ifndef __SE_TIMER_FD_H__
 #define __SE_TIMER_FD_H__
 

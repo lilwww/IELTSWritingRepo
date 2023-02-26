@@ -1,9 +1,4 @@
-/*  File Name      cache_thread.cc
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-08-04 03:38
- *  Last Modified  2022-08-04 11:03
- */
+
 #include "../../include/TimerManager/cache_thread.h"
 #include <stdio.h>
 

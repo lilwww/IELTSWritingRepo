@@ -1,9 +1,4 @@
-/*  File Name      inet_address.h
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 11:43
- *  Last Modified  2022-07-30 12:44
- */
+
 #ifndef __SE_INET_ADDRESS_H__
 #define __SE_INET_ADDRESS_H__
 

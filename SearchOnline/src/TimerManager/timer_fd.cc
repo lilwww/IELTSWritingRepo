@@ -1,9 +1,4 @@
-/*  File Name      timer_fd.cc
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-08-03 16:16
- *  Last Modified  2022-08-04 22:44
- */
+
 #include "../../include/TimerManager/timer_fd.h"
 
 #include <time.h>

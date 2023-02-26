@@ -1,9 +1,4 @@
-/*  File Name      thread_pool.cc
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 22:21
- *  Last Modified  2022-08-04 16:17
- */
+
 #include "../../include/Reactor/thread_pool.h"
 /* #include "../../include/LRUCache/cache_manager.h" */
 /* #include "../../include/TimerManager/timer_fd.h" */

@@ -1,9 +1,4 @@
-/*  File Name      socket_io.cc
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 21:26
- *  Last Modified  2022-07-31 21:24
- */
+
 #include "../../include/Reactor/socket_io.h"
 
 #include <sys/types.h>

@@ -1,9 +1,4 @@
-/*  File Name      event_loop.h
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 10:51
- *  Last Modified  2022-08-01 21:23
- */
+
 #ifndef __SE_EVENTLOOP_H__
 #define __SE_EVENTLOOP_H__
 
