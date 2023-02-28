@@ -4,10 +4,30 @@
 #include <string.h>
 
 #include <iostream>
-
+using std::cout;
 namespace search_engine
 {
 
+    string KeyRecommander::recommend()
+    {
+        vector<string> finals = doQuery();
+        if (!finals.size())
+        {
+            cout << "Not Found!\n";
+            return "ERR";
+        }
+        else
+        {
+            string res = "[close word]\n";
+            int cnt = 1;
+            for (auto &val : finals)
+            {
+                res += std::to_string(cnt) + "." + val + " ";
+                ++cnt;
+            }
+            res += "\n";
+        }
+    }
     vector<string> KeyRecommander::doQuery()
     {
         vector<std::pair<string, int>> candit = _pdict->doQuery(_sought);

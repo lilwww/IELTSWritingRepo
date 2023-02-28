@@ -19,7 +19,7 @@ namespace search_engine
 
         // create_Cn_Dict();
         create_En_Dict();
-        queryLoop();
+        //queryLoop();
         store();
     }
 

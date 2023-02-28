@@ -1,9 +1,4 @@
-/*  File Name      configuration.h
- *  Author         wd_cpp44th_group7th
- *  Gitee          https://gitee.com/magician-007
- *  Created Time   2022-07-29 23:00
- *  Last Modified  2022-08-03 10:41
- */
+
 #ifndef __CONFIGURATION__
 #define __CONFIGURATION__
 

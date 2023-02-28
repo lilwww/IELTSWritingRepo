@@ -41,7 +41,7 @@ public:
     }
 
     vector<string> doQuery();
-
+    string recommend();
 private:
     void insertPrique(std::pair<string,int> & elem ,Res & myResult);
     void initFinalResult(vector<string> & finalResult);

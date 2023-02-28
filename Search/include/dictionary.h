@@ -12,7 +12,7 @@ using std::vector;
 using std::unordered_map;
 using std::set;
 
-#include "../disallow_copy_assign.h"
+#include "disallow_copy_assign.h"
 
 namespace search_engine {
 
